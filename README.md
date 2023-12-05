@@ -9,6 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/style-aligned-colab/blob/main/style_aligned_gradio_colab.ipynb) | style_aligned_gradio_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/style-aligned-colab/blob/main/style_aligned_4x_gradio_colab.ipynb) | style_aligned_4x_gradio_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/google/style-aligned
