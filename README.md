@@ -20,6 +20,7 @@ https://style-aligned-gen.github.io/data/StyleAligned.pdf
 https://style-aligned-gen.github.io/
 
 ## Output
+![Screenshot 2023-12-05 121839](https://github.com/camenduru/style-aligned-colab/assets/54370274/1ef47cab-402f-4ad4-8ee2-726c6dca5938)
 
 ## Sponsor
 https://modelslab.com
