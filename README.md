@@ -15,10 +15,10 @@
 https://github.com/google/style-aligned
 
 ## Paper
+https://arxiv.org/abs/2312.02133 <br />
 https://style-aligned-gen.github.io/data/StyleAligned.pdf
 
 ## Page
-https://arxiv.org/abs/2312.02133 <br />
 https://style-aligned-gen.github.io/ <br />
 
 ## Output
